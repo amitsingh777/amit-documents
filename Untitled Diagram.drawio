@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-13T14:34:00.881Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="He7ZLYSpCZRSEJfEurcF" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-13T14:45:01.891Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="xf69_9rjqL8d7a9iWjDI" version="24.6.5" type="github">
   <diagram name="Page-1" id="8V5RDRruW8-bpsH8PdYV">
     <mxGraphModel dx="1224" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -120,17 +120,62 @@
         <mxCell id="QVbDXew7gPLMxpxO4Uv7-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="1640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QVbDXew7gPLMxpxO4Uv7-45" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QVbDXew7gPLMxpxO4Uv7-45" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="1920" width="380" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QVbDXew7gPLMxpxO4Uv7-46" value="Call Logs" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="250" y="1925" width="50" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="QVbDXew7gPLMxpxO4Uv7-47" value="Chats" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1925" width="60" height="60" as="geometry" />
+          <mxGeometry x="260" y="1920" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QVbDXew7gPLMxpxO4Uv7-48" value="Call Logs" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="545" y="1925" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QVbDXew7gPLMxpxO4Uv7-65" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="229.99999999999966" y="2590" width="381.82000000000016" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="QVbDXew7gPLMxpxO4Uv7-49" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="QVbDXew7gPLMxpxO4Uv7-65">
+          <mxGeometry x="-87.11999999999966" y="89.09" width="556.06" height="381.82" as="geometry" />
+        </mxCell>
+        <mxCell id="QVbDXew7gPLMxpxO4Uv7-57" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="QVbDXew7gPLMxpxO4Uv7-65">
+          <mxGeometry x="0.9100000000003376" y="500" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QVbDXew7gPLMxpxO4Uv7-54" value="Chats" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="QVbDXew7gPLMxpxO4Uv7-65">
+          <mxGeometry x="15.910000000000338" y="500" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QVbDXew7gPLMxpxO4Uv7-55" value="Call Logs" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="QVbDXew7gPLMxpxO4Uv7-65">
+          <mxGeometry x="315.9100000000003" y="505" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QVbDXew7gPLMxpxO4Uv7-60" value="Call Logs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QVbDXew7gPLMxpxO4Uv7-65">
+          <mxGeometry x="0.9100000000003376" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QVbDXew7gPLMxpxO4Uv7-61" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QVbDXew7gPLMxpxO4Uv7-65">
+          <mxGeometry x="0.9100000000003376" y="60" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QVbDXew7gPLMxpxO4Uv7-62" value="Profile pci" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="QVbDXew7gPLMxpxO4Uv7-65">
+          <mxGeometry x="15.910000000000338" y="70" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QVbDXew7gPLMxpxO4Uv7-66" value="userName/email" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QVbDXew7gPLMxpxO4Uv7-65">
+          <mxGeometry x="90.91000000000034" y="70" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QVbDXew7gPLMxpxO4Uv7-67" value="Call button" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="QVbDXew7gPLMxpxO4Uv7-65">
+          <mxGeometry x="340.9100000000003" y="70" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QVbDXew7gPLMxpxO4Uv7-75" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.bell;" vertex="1" parent="QVbDXew7gPLMxpxO4Uv7-65">
+          <mxGeometry x="51.91000000000031" y="500" width="24" height="23.099999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="QVbDXew7gPLMxpxO4Uv7-69" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230.91" y="1810" width="379.09" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QVbDXew7gPLMxpxO4Uv7-70" value="Profile pic" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="235.45" y="1815" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QVbDXew7gPLMxpxO4Uv7-71" value="user name /email" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1805" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QVbDXew7gPLMxpxO4Uv7-72" value="message count" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1814.09" width="60.91" height="60.91" as="geometry" />
+        </mxCell>
+        <mxCell id="QVbDXew7gPLMxpxO4Uv7-74" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.bell;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1920" width="24" height="23.099999999999998" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
